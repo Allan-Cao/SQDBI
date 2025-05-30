@@ -1,6 +1,6 @@
 # SQDBI - Solo Queue Database Ingest
 
-**This repository is currently archived as the owner works on [ATG (All the games)](github.com/Allan-Cao/ATG) as an maintained replacement!**
+**This repository is currently archived as the owner works on [ATG (All the games)](https://github.com/Allan-Cao/ATG) as an maintained replacement!**
 
 Models and scripts to store riot summary files for a database of players.
 
